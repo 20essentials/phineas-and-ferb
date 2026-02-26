@@ -1,0 +1,23 @@
+export const nameBand = 'PHINEAS AND FERB';
+export const nameSongs = [
+	"NO TENGO RITMO", /*1*/
+	"SON MALOS", /*2*/
+	"MI PLAYA ES", /*3*/
+	"MIS CADENAS SON", /*4*/
+	"SON NIÑOS MALOS", /*5*/
+	"THEME ", /*6*/
+	"GUICHI GUICHI GO", /*7*/
+	"PHINEAS Y FERB", /*8*/
+	"ISA ESTÁ ESPONJADA", /*9*/
+	"BACKYARD BEACH", /*10*/
+	"SUMMER BELONGS TO YOU", /*11*/
+	"SQUIRRELS IN MY PANTS", /*12*/
+	"AIN'T GOT RHYTHM", /*13*/
+	"LLEGASTE HASTA MI CORAZÓN", /*14*/
+	"COME HOME PERRY", /*15*/
+	"SIEMPRE MÁS ALLÁ", /*16*/
+	"LUCHANDO CON ROBOTS", /*17*/
+	"I LOVE YOU MOM", /*18*/
+	"WEAPONRY", /*19*/
+	"YOU SNUCK YOUR WAY", /*20*/
+]
